@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
+<center><img src="http://kcocco.cf/plexle.png" alt="Logo" height="100" width="100"></center>
     <meta charset="UTF-8">
     <title>Share File</title>
     <link href='https://fonts.googleapis.com/css?family=Titillium+Web:400,300,600' rel='stylesheet' type='text/css'>
